@@ -1,0 +1,21 @@
+h1
+{
+    color: darkmagenta;
+}
+img
+{
+    width: 500px;
+    border-radius: 50px;
+    background-position: 80px;
+    
+
+}
+p{
+    font-style: oblique;
+    text-align:center-right
+  
+}
+body
+{
+background-color:grey;
+}
